@@ -24,6 +24,7 @@ import threading
 #AUTH_TOKEN = '0394a2d70783b002e90f57d8444f030d'
 #TWILIO_PHONE_NUMBER = '+19377212788'
 #CARETAKER_NUMBER = '+919384166659'
+# Please change the Twilio API credentials
 
 # Parameters
 IMG_SIZE = 224
